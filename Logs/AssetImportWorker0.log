@@ -172,3 +172,85 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1491365.384370 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.016187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.275831 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(e16622f8c76fac5419e65bae5546a598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(e16622f8c76fac5419e65bae5546a598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef07f9fc4cf5836bbd264084c694e1e8') in 0.009510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.195702 seconds.
+  path: Assets/Prefabs/CustomParent.prefab
+  artifactKey: Guid(8736c6931db626d42a3331127362d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CustomParent.prefab using Guid(8736c6931db626d42a3331127362d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed87cec55b164cedec062a4fd27f063b') in 0.031596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 232.171944 seconds.
+  path: Assets/Prefabs/CustomPrefabParent.prefab
+  artifactKey: Guid(8736c6931db626d42a3331127362d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CustomPrefabParent.prefab using Guid(8736c6931db626d42a3331127362d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc90ecf061c17a57ed261c0ec43a452e') in 0.012133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.822200 seconds.
+  path: Assets/Prefabs/CustomPrefabParent.prefab
+  artifactKey: Guid(8736c6931db626d42a3331127362d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CustomPrefabParent.prefab using Guid(8736c6931db626d42a3331127362d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a08b69b8b403becdba1f558231aaf4') in 0.005476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 136.590317 seconds.
+  path: Assets/Scenes/SampleSceneCustom.unity
+  artifactKey: Guid(cd817d4f9d8e45a4699b2c3a98694c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleSceneCustom.unity using Guid(cd817d4f9d8e45a4699b2c3a98694c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166ce9cfbe8f3aa1f2e8a39594beba0c') in 0.006765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 328.160670 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(a3e47f73f76f44145b9c847cb0a776f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(a3e47f73f76f44145b9c847cb0a776f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c298e379eaf1595b6ee3372e116c40') in 0.008878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.449200 seconds.
+  path: Assets/Resources/BillingMode.json
+  artifactKey: Guid(bdb888db35a57f744af4732e1a52b417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BillingMode.json using Guid(bdb888db35a57f744af4732e1a52b417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c90eebd6a23180d3918f276bc8aa8a06') in 0.056786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.762722 seconds.
+  path: Assets/GitLock/Editor Resources/Loading
+  artifactKey: Guid(7e30eb9cbcb4f554c989a6e74fc5836b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GitLock/Editor Resources/Loading using Guid(7e30eb9cbcb4f554c989a6e74fc5836b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2973bdb67cd9ece802196ad2dcbe275c') in 0.010339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.077146 seconds.
+  path: Assets/GitLock/Editor Resources/Icons
+  artifactKey: Guid(3c23a4cd8bdf5a64f932ed56943f9807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GitLock/Editor Resources/Icons using Guid(3c23a4cd8bdf5a64f932ed56943f9807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ae4f2116ec0a10a2f252cf04b76646') in 0.008603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071302 seconds.
+  path: Assets/GitLock/Editor Resources/Icons/Locked.png
+  artifactKey: Guid(4f05854495eab7d4f9954fe53ed3b5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GitLock/Editor Resources/Icons/Locked.png using Guid(4f05854495eab7d4f9954fe53ed3b5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256e7a93ca3cc525333a041cac1838c5') in 0.075436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/GitLock/Editor Resources/Icons/Updated.png
+  artifactKey: Guid(3968ba2d7bee7954990200884cc0b314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GitLock/Editor Resources/Icons/Updated.png using Guid(3968ba2d7bee7954990200884cc0b314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7a4167adbef9991e90cdf945788049') in 0.015744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/GitLock/Editor Resources/Icons/UnlockedWithChanges.png
+  artifactKey: Guid(3612bc568da8488429740813a16c7768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GitLock/Editor Resources/Icons/UnlockedWithChanges.png using Guid(3612bc568da8488429740813a16c7768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8d9031435629a1736866353bdc091e') in 0.015414 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
